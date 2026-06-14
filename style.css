@@ -28,14 +28,14 @@ body{
     color:white;
     padding:30px;
 }
-
 .sidebar img{
     width:150px;
     height:150px;
     border-radius:50%;
-    display:block;
-    margin:auto;
     object-fit:cover;
+
+    display:block;
+    margin:0 auto 20px auto;
 }
 
 .sidebar h1{
